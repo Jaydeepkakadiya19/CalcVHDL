@@ -1,0 +1,3 @@
+vhdl work "bin_inout.vhd"
+vhdl work "IO.vhd"
+vhdl work "TB.vhd"

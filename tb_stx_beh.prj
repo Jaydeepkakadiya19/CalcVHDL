@@ -1,0 +1,3 @@
+vhdl isim_temp "bcd_inout.vhd"
+vhdl isim_temp "IO.vhd"
+vhdl isim_temp "TB.vhd"
